@@ -7,7 +7,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/*
+
 .image-cropper {
     width: 100px;
     height: 100px;
@@ -15,18 +15,7 @@
     overflow: hidden;
     border-radius: 50%;
 }
-*/
-.image-cropper {
-    /* width: 100px;
-	height: 100px; */
-	overflow: hidden;
-    border-radius: 50%;
-	position: fixed;
-	top: 50%;
-	left: 50%;
-	margin-top: -50px;
-	margin-left: -50px;
-}
+
 .profile-pic {
   display: block;
   margin: 0 auto;
