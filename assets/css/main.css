@@ -17,8 +17,8 @@
 }
 */
 .image-cropper {
-    width: 100px;
-	height: 100px;
+    /* width: 100px;
+	height: 100px; */
 	overflow: hidden;
     border-radius: 50%;
 	position: fixed;
