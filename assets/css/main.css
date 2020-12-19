@@ -18,7 +18,7 @@
   /*display: inline;*/
   display: block;
   margin: 0 auto;
-  margin-left: -10%; /* centers the image */
+  margin-left: -5%; /* centers the image */
   height: 100%;
   width: auto;
 }
