@@ -16,7 +16,7 @@
 }
 .profile-pic {
   display: block;
-  margin: auto auto;
+  margin: 0 auto;
   height: 100%;
   width: auto;
 }
