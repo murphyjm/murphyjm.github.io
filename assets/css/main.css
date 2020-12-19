@@ -13,7 +13,9 @@
     height: 100px;
     position: relative;
     overflow: hidden;
-    border-radius: 50%;
+	border-radius: 50%;
+	display: block;
+	margin: 0 auto;
 }
 
 .profile-pic {
