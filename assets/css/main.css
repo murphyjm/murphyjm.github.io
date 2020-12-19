@@ -8,17 +8,15 @@
 */
 
 .image-cropper {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     position: relative;
     overflow: hidden;
     border-radius: 50%;
 }
 .profile-pic {
-  /*display: inline;*/
   display: block;
   margin: auto auto;
-  /* margin-left: -5%; /* centers the image */
   height: 100%;
   width: auto;
 }
