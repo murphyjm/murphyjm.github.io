@@ -17,9 +17,8 @@
 .profile-pic {
   /*display: inline;*/
   display: block;
-  margin: auto auto;
-  /*margin: 0 auto; */
-  /* margin-left: -10%; /* centers the image */
+  margin: 0 auto;
+  margin-left: -10%; /* centers the image */
   height: 100%;
   width: auto;
 }
