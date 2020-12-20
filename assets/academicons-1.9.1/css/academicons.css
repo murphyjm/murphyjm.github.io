@@ -536,14 +536,14 @@ border-radius: .1em;
 
 /* Icon */
 
-.ai-icon {
+.icon {
   text-decoration: none;
   border-bottom: none;
   position: relative;
   text-align: center;
 }
 
-  .ai-icon:before {
+  .icon:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     display: inline-block;
@@ -556,23 +556,23 @@ border-radius: .1em;
     font-weight: 400;
   }
 
-  .ai-icon > .label {
+  .icon > .label {
     display: none;
   }
 
-  .ai-icon:before {
+  .icon:before {
     line-height: inherit;
   }
 
-  .ai-icon.solid:before {
+  .icon.solid:before {
     font-weight: 900;
   }
 
-  .ai-icon.brands:before {
+  .icon.brands:before {
     font-family: 'Academicons';
   }
 
-  .ai-icon.style2:before {
+  .icon.style2:before {
     border-radius: 2.75em;
     display: inline-block;
     height: 2.75em;
@@ -580,32 +580,32 @@ border-radius: .1em;
     width: 2.75em;
   }
 
-  .ai-icon.major {
+  .icon.major {
     display: block;
     margin: 0 0 1rem 0;
   }
 
-    .ai-icon.major:before {
+    .icon.major:before {
       font-size: 1.25rem;
     }
 
-a.ai-icon.style2:before {
+a.icon.style2:before {
   -moz-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
   -webkit-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
   -ms-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
 }
 
-.ai-icon.style2:before {
+.icon.style2:before {
   box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
 }
 
-a.ai-icon.style2:hover:before {
+a.icon.style2:hover:before {
   box-shadow: inset 0 0 0 1px #47D3E5;
   color: #47D3E5;
 }
 
-a.ai-icon.style2:active:before {
+a.icon.style2:active:before {
   background-color: rgba(71, 211, 229, 0.1);
   box-shadow: inset 0 0 0 1px #47D3E5;
   color: #47D3E5;
